@@ -1,5 +1,5 @@
 {
-    "name": "michael-capitalbay/php-quickbooks",
+    "name": "baygroup/php-quickbooks",
     "description": "QuickBooks Laravel stuff - internal use only",
     "type": "library",
     "keywords": ["api", "http", "rest", "quickbooks", "smallbusiness"],
